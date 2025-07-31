@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Andrey Hugo and I'm a um estudante de programação Front-end</h2>
+<h2 align="left">Olá! Sou Andrey Hugo, sou um estudante de programação Front-end.</h2>
 
 ###
 
